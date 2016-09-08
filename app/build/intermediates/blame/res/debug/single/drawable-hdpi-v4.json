@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\underline.png",
+        "source": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\src\\main\\res\\drawable-hdpi\\underline.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\socialperson.png",
+        "source": "D:\\AndroidStudioProjects\\MobileTheftTracker\\app\\src\\main\\res\\drawable-hdpi\\socialperson.png"
+    }
+]
